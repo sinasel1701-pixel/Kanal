@@ -1,0 +1,84 @@
+#EXTM3U url-tvg="http://epgurl.com/global_epg.xml"
+
+####################################################################
+#################### 🇹🇷 TÜRK KANALLARI #############################
+####################################################################
+
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1" group-title="TurkKanallar",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TRT Haber" group-title="TurkKanallar",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TRT Spor" group-title="TurkKanallar",TRT Spor
+https://tv-trtspor.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TRT Çocuk" group-title="TurkKanallar",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TRT Belgesel" group-title="TurkKanallar",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="diyanettv.tr" tvg-name="Diyanet TV" group-title="TurkKanallar",Diyanet TV
+https://tv-diyanet.medya.trt.com.tr/master.m3u8
+
+
+####################################################################
+#################### ⚽ SPOR KANALLARI ##############################
+####################################################################
+
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TRT Spor" group-title="Spor",TRT Spor
+https://tv-trtspor.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TRT Spor 2" group-title="Spor",TRT Spor 2
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="redbull.tv" tvg-name="Red Bull TV" group-title="Spor",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-1 tvg-id="olympics.tv" tvg-name="Olympic Channel" group-title="Spor",Olympic Channel
+https://olympics-ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+
+#EXTINF:-1 tvg-id="bein1.tr" tvg-name="beIN Sports 1" group-title="Spor",beIN Sports 1
+http://YOUR_LEGAL_STREAM_URL_FOR_BEIN1
+
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S Sport" group-title="Spor",S Sport
+http://YOUR_LEGAL_STREAM_URL_FOR_SSPORT
+
+#EXTINF:-1 tvg-id="tivibuspor1.tr" tvg-name="Tivibu Spor 1" group-title="Spor",Tivibu Spor 1
+http://YOUR_LEGAL_STREAM_URL_FOR_TIVIBUSPOR1
+
+
+####################################################################
+#################### 🇩🇪 ALMAN KANALLARI ############################
+####################################################################
+
+#EXTINF:-1 tvg-id="ard.de" tvg-name="ARD" group-title="Almanya",ARD (Das Erste)
+https://mcdn.daserste.de/daserste/de/master.m3u8
+
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF" group-title="Almanya",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="ZDFinfo" group-title="Almanya",ZDFinfo
+https://zdf-hls-18.akamaized.net/hls/live/2016505/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" group-title="Almanya",3sat
+https://zdf-hls-16.akamaized.net/hls/live/2016501/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="arte.de" tvg-name="Arte" group-title="Almanya",Arte
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="Phoenix" group-title="Almanya",Phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016507/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="dw.de" tvg-name="DW Deutsch" group-title="Almanya",DW Deutsch
+https://dwamdstream106.akamaized.net/hls/live/2015530/dwstream106/index.m3u8
+
+#EXTINF:-1 tvg-id="kika.de" tvg-name="KiKA" group-title="Almanya",KiKA
+https://kikageohls.akamaized.net/hls/live/2017995/de/master.m3u8
+
+#EXTINF:-1 tvg-id="br.de" tvg-name="BR Fernsehen" group-title="Almanya",BR Fernsehen
+https://mcdn.br.de/brfs_sued/master.m3u8
+
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR Fernsehen" group-title="Almanya",NDR Fernsehen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
