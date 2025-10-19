@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 UHD" tvg-logo="http://1kapak.plustvmedia.com/Tr/trt1.png" group-title="TR | ULUSAL UHD",TR: TRT 1 UHD
+http://elit64.xyz:2086/hdiptv9007/WtWNgWsFAx/2
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TR: TRT 2 UHD" tvg-logo="http://1kapak.plustvmedia.com/Tr/trt2.png" group-title="TR | ULUSAL UHD",TR: TRT 2 UHD
+http://elit64.xyz:2086/hdiptv9007/WtWNgWsFAx/3
+#EXTINF:-1 tvg-id="trt3sporttbmm.tr" tvg-name="TR: TRT 3 UHD" tvg-logo="http://2kapak.plustvmedia.com/Tr/trtspor.png" group-title="TR | ULUSAL UHD",TR: TRT 3 UHD
+http://elit64.xyz:2086/hdiptv9007/WtWNgWsFAx/197477
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV UHD" tvg-logo="http://2kapak.plustvmedia.com/Tr/atv.png" group-title="TR | ULUSAL UHD",TR: ATV UHD
+http://elit64.xyz:2086/hdiptv9007/WtWNgWsFAx/5
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HD*" tvg-logo="http://2kapak.plustvmedia.com/Tr/atv.png" group-title="TR | ULUSAL UHD",TR: ATV HD*
+http://elit64.xyz:2086/hdiptv9007/WtWNgWsFAx/56008
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV UHD" tvg-logo="http://2kapak.plustvmedia.com/Tr/star.png" group-title="TR | ULUSAL UHD",TR: STAR TV UHD
+http://elit64.xyz:2086/hdiptv9007/WtWNgWsFAx/6
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D UHD" tvg-logo="http://2kapak.plustvmedia.com/Tr/kanald.png" group-title="TR | ULUSAL UHD",TR: KANAL D UHD
+http://elit64.xyz:2086/hdiptv9007/WtWNgWsFAx/7
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV UHD" tvg-logo="http://2kapak.plustvmedia.com/Tr/show.png" group-title="TR | ULUSAL UHD",TR: SHOW TV UHD
+http://elit64.xyz:2086/hdiptv9007/WtWNgWsFAx/8
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 UHD" tvg-logo="http://2kapak.plustvmedia.com/Tr/kanal7.png" group-title="TR | ULUSAL UHD",TR: KANAL 7 UHD
+http://elit64.xyz:2086/hdiptv9007/WtWNgWsFAx/9
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: NOW TV UHD" tvg-logo="http://2kapak.plustvmedia.com/Tr/nowTv.png" group-title="TR | ULUSAL UHD",TR: NOW TV UHD
+http://elit64.xyz:2086/hdiptv9007/WtWNgWsFAx/10
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV 8 UHD" tvg-logo="http://2kapak.plustvmedia.com/Tr/tv8.png" group-title="TR | ULUSAL UHD",TR: TV 8 UHD
+http://elit64.xyz:2086/hdiptv9007/WtWNgWsFAx/11
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV 8 HD*" tvg-logo="http://2kapak.plustvmedia.com/Tr/tv8.png" group-title="TR | ULUSAL UHD",TR: TV 8 HD*
+http://elit64.xyz:2086/hdiptv9007/WtWNgWsFAx/265718
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV UHD" tvg-logo="http://2kapak.plustvmedia.com/Tr/beyaztv.png" group-title="TR | ULUSAL UHD",TR: BEYAZ TV UHD
+http://elit64.xyz:2086/hdiptv9007/WtWNgWsFAx/12
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8 BUCUK UHD" tvg-logo="http://2kapak.plustvmedia.com/Tr/tv85.png" group-title="TR | ULUSAL UHD",TR: TV 8 BUCUK UHD
+http://elit64.xyz:2086/hdiptv9007/WtWNgWsFAx/13
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: TEVE 2 UHD" tvg-logo="http://2kapak.plustvmedia.com/Tr/teve2.png" group-title="TR | ULUSAL UHD",TR: TEVE 2 UHD
+http://elit64.xyz:2086/hdiptv9007/WtWNgWsFAx/14
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR: A2 UHD" tvg-logo="http://2kapak.plustvmedia.com/Tr/a2.png" group-title="TR | ULUSAL UHD",TR: A2 UHD
+http://elit64.xyz:2086/hdiptv9007/WtWNgWsFAx/15
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV4 UHD" tvg-logo="http://2kapak.plustvmedia.com/Tr/tv4.png" group-title="TR | ULUSAL UHD",TR: TV4 UHD
+http://elit64.xyz:2086/hdiptv9007/WtWNgWsFAx/212291
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: TV 360 UHD" tvg-logo="http://2kapak.plustvmedia.com/Tr/360.png" group-title="TR | ULUSAL UHD",TR: TV 360 UHD
+http://elit64.xyz:2086/hdiptv9007/WtWNgWsFAx/66
