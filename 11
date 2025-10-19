@@ -1,0 +1,52 @@
+#EXTM3U
+
+# ULUSAL KANALLAR
+#EXTINF:-1 tvg-id="TRT1" tvg-name="TRT 1 HD" group-title="Ulusal Kanallar",TRT 1 HD
+[TRT 1 AKIS ADRESİ BURAYA]
+
+#EXTINF:-1 tvg-id="KANALD" tvg-name="Kanal D HD" group-title="Ulusal Kanallar",Kanal D HD
+[KANAL D AKIS ADRESİ BURAYA]
+
+#EXTINF:-1 tvg-id="SHOWTV" tvg-name="Show TV HD" group-title="Ulusal Kanallar",Show TV HD
+[SHOW TV AKIS ADRESİ BURAYA]
+
+#EXTINF:-1 tvg-id="STARTV" tvg-name="Star TV HD" group-title="Ulusal Kanallar",Star TV HD
+[STAR TV AKIS ADRESİ BURAYA]
+
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV HD" group-title="Ulusal Kanallar",ATV HD
+[ATV AKIS ADRESİ BURAYA]
+
+#EXTINF:-1 tvg-id="NOWTV" tvg-name="NOW TV HD" group-title="Ulusal Kanallar",NOW TV HD
+[NOW TV AKIS ADRESİ BURAYA]
+
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8 HD" group-title="Ulusal Kanallar",TV8 HD
+[TV8 AKIS ADRESİ BURAYA]
+
+# HABER KANALLARI
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" group-title="Haber Kanalları",NTV
+[NTV AKIS ADRESİ BURAYA]
+
+#EXTINF:-1 tvg-id="HABERTURK" tvg-name="Habertürk HD" group-title="Haber Kanalları",Habertürk HD
+[HABERTÜRK AKIS ADRESİ BURAYA]
+
+#EXTINF:-1 tvg-id="CNNTURK" tvg-name="CNN Türk HD" group-title="Haber Kanalları",CNN Türk HD
+[CNN TÜRK AKIS ADRESİ BURAYA]
+
+#EXTINF:-1 tvg-id="A-HABER" tvg-name="A Haber HD" group-title="Haber Kanalları",A Haber HD
+[A HABER AKIS ADRESİ BURAYA]
+
+#EXTINF:-1 tvg-id="HALKTV" tvg-name="Halk TV" group-title="Haber Kanalları",Halk TV
+[HALK TV AKIS ADRESİ BURAYA]
+
+# SPOR VE BELGESEL KANALLARI
+#EXTINF:-1 tvg-id="TRTSPOR" tvg-name="TRT Spor HD" group-title="Spor Kanalları",TRT Spor HD
+[TRT SPOR AKIS ADRESİ BURAYA]
+
+#EXTINF:-1 tvg-id="ASPOR" tvg-name="A Spor HD" group-title="Spor Kanalları",A Spor HD
+[A SPOR AKIS ADRESİ BURAYA]
+
+#EXTINF:-1 tvg-id="TRTBELGESEL" tvg-name="TRT Belgesel HD" group-title="Belgesel",TRT Belgesel HD
+[TRT BELGESEL AKIS ADRESİ BURAYA]
+
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX Türkiye" group-title="Belgesel",DMAX Türkiye
+[DMAX AKIS ADRESİ BURAYA]
